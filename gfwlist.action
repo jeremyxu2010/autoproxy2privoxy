@@ -1,11 +1,12 @@
 # GFWList: GFWList4LL
-# Updated: Tue, 29 Jan 2019 08:22:38 -0500
-{+forward-override{forward-socks5 127.0.0.1:9050 .}}
+# Updated: Mon, 04 Nov 2019 11:21:47 -0500
+{+forward-override{forward-socks5 127.0.0.1:1086 .}}
+#{+forward-override{forward web-proxy.tencent.com:8080 .}}
+#{+forward-override{forward 127.0.0.1:12679}}
 *2.bahamut.com.tw:80
 .030buy.com:80
 .0rz.tw:80
 .1-apple.com.tw
-.1.1.1.1
 .10.tt:80
 .1000giri.net
 .100ke.org:80
@@ -40,6 +41,7 @@
 .2-hand.info:80
 .2008xianzhang.info
 .2017.hk
+.21join.com:80
 .21pron.com:80
 .228.net.tw:80
 .233abc.com
@@ -80,6 +82,7 @@
 .66.ca:80
 .6park.com
 .6parker.com
+.6parknews.com
 .7capture.com
 .7cow.com:80
 .8-d.com:80
@@ -99,6 +102,7 @@
 .99cn.info:80
 .9bis.com
 .9bis.net
+.9gag.com
 .a-normal-day.com
 .a248.e.akamai.net
 .abc.com:80
@@ -110,6 +114,7 @@
 .abematv.akamaized.net
 .ablwang.com:80
 .aboluowang.com
+.about.google
 .aboutgfw.com:80
 .abs.edu:80
 .accim.org:80
@@ -169,7 +174,7 @@
 .allfinegirls.com
 .allgirlmassage.com:80
 .allgravure.com:80
-.allinfa.com:80
+.allinfa.com
 .alljackpotscasino.com:80
 .allmovie.com
 .allowed.org:80
@@ -213,6 +218,7 @@
 .anobii.com
 .anonymitynetwork.com:80
 .anonymizer.com:80
+.anonymouse.org
 .anpopo.com:80
 .answering-islam.org:80
 .anthonycalzadilla.com
@@ -268,6 +274,7 @@
 .army.mil
 .art4tibet1998.org:80
 .arte.tv
+.artstation.com
 .asacp.org
 .asia-gaming.com:80
 .asiaharvest.org
@@ -302,6 +309,7 @@
 .avdb.in
 .avdb.tv
 .avfantasy.com:80
+.avg.com
 .avgle.com
 .avidemux.org
 .avmo.pw:80
@@ -336,6 +344,7 @@
 .baramangaonline.com:80
 .barenakedislam.com:80
 .barnabu.co.uk
+.barton.de
 .bash-hackers.org
 .bastillepost.com:80
 .bayvoice.net
@@ -433,6 +442,7 @@
 .blog.pathtosharepoint.com
 .blog.pentalogic.net
 .blog.tiney.com
+.blog.workflow.is
 .blogblog.com
 .blogcatalog.com
 .blogcity.me
@@ -511,6 +521,7 @@
 .bullogger.com
 .busayari.com:80
 .businessinsider.com
+.businesstoday.com.tw
 .businessweek.com:80
 .buugaa.com:80
 .buzzhand.com:80
@@ -658,11 +669,13 @@
 .chinainperspective.com:80
 .chinainterimgov.org
 .chinamule.com
+.chinanewscenter.com:80
 .chinapress.com.my
 .chinarightsia.org:80
 .chinasocialdemocraticparty.com
 .chinasoul.org
 .chinasucks.net:80
+.chinatimes.com
 .chinatopsex.com
 .chinatown.com.au:80
 .chinaview.wordpress.com
@@ -864,6 +877,7 @@
 .data-vocabulary.org
 .data.flurry.com
 .data.gov.tw
+.daum.net
 .david-kilgour.com:80
 .dawangidc.com
 .daxa.cn
@@ -889,6 +903,7 @@
 .delcamp.net
 .demo.opera-mini.net
 .democrats.org
+.demosisto.hk
 .depositphotos.com
 .derekhsu.homeip.net
 .desc.se
@@ -914,6 +929,7 @@
 .dipity.com:80
 .directcreative.com
 .discoins.com
+.disconnect.me
 .discordapp.com
 .discordapp.net
 .discuss.com.hk
@@ -930,9 +946,11 @@
 .dlyoutube.com
 .dm530.net
 .dmcdn.net
+.dmhy.org
 .dmm.co.jp
 .dns-dns.com:80
 .dns-stuff.com:80
+.dns.google
 .dns04.com:80
 .dns05.com:80
 .dns1.us:80
@@ -943,6 +961,7 @@
 .dnsrd.com:80
 .dnssec.net
 .dnvod.tv
+.documentingreality.com
 .dojin.com:80
 .dok-forum.net:80
 .dolc.de
@@ -1068,6 +1087,7 @@
 .emulefans.com:80
 .emuparadise.me:80
 .enanyang.my:80
+.encyclopedia.com
 .enewstree.com
 .enfal.de:80
 .engagedaily.org
@@ -1180,6 +1200,7 @@
 .fangong.org
 .fanhaodang.com:80
 .fanqiang.tk:80
+.fanqiangdang.com
 .fanqianghou.com
 .fanqiangzhe.com
 .fanswong.com
@@ -1208,6 +1229,7 @@
 .fdc64.org:80
 .fdc89.jp:80
 .feedburner.com
+.feedx.net
 .feelssh.com
 .feifeiss.com:80
 .feitian-california.org:80
@@ -1218,6 +1240,7 @@
 .ffvpn.com:80
 .fgmtv.org:80
 .fhreports.net:80
+.fiddle.jshell.net
 .figprayer.com
 .fileflyer.com
 .files2me.com:80
@@ -1290,6 +1313,7 @@
 .freefq.com:80
 .freefuckvids.com:80
 .freegao.com
+.freehongkong.org
 .freekwonpyong.org:80
 .freelotto.com
 .freenetproject.org
@@ -1321,10 +1345,12 @@
 .frootvpn.com
 .fscked.org
 .fsurf.com:80
+.ftchinese.com
 .ftp1.biz:80
 .ftpserver.biz:80
 .ftv.com.tw:80
 .fuckcnnic.net
+.fulione.com:80
 .fullerconsideration.com
 .funf.tw:80
 .funkyimg.com
@@ -1390,6 +1416,7 @@
 .geocities.co.jp:80
 .gerefoundation.org:80
 .get.app
+.get.dev
 .get.how
 .get.page
 .getastrill.com
@@ -1578,6 +1605,7 @@
 .google.cv
 .google.cz
 .google.de
+.google.dev
 .google.dj
 .google.dk
 .google.dm
@@ -1736,6 +1764,7 @@
 .guaguass.com:80
 .guaguass.org:80
 .guangming.com.my:80
+.guangnianvpn.com
 .guardster.com:80
 .guishan.org
 .gumroad.com
@@ -1766,6 +1795,7 @@
 .hackthatphone.net
 .hakkatv.org.tw
 .handcraftedsoftware.org:80
+.hanime.tv
 .hanunyi.com:80
 .haoel.github.io
 .happy-vpn.com
@@ -1996,6 +2026,7 @@
 .img*.picturedip.com
 .img.ly
 .imgchili.net:80
+.imgur.com
 .imkev.com
 .imlive.com
 .immigration.gov.tw
@@ -2202,6 +2233,7 @@
 .kink.com:80
 .kinmen.org.tw
 .kinmen.travel
+.kinokuniya.com
 .kir.jp:80
 .kissbbao.cn:80
 .kk-whys.co.jp
@@ -2279,7 +2311,9 @@
 .libertytimes.com.tw:80
 .lifemiles.com
 .lighten.org.tw:80
+.lighti.me
 .lightnovel.cn:80
+.lightyearvpn.com
 .lihkg.com
 .like.com
 .line-apps.com
@@ -2338,7 +2372,7 @@
 .lsmkorean.org
 .lsmwebcast.com:80
 .lsxszzg.com:80
-.ltn.com.tw:80
+.ltn.com.tw
 .luke54.com:80
 .luke54.org:80
 .lupm.org
@@ -2647,6 +2681,7 @@
 .nic.cz.cc
 .nic.google
 .nic.gov
+.nicovideo.jp
 .nighost.org
 .nikkei.com
 .ninjacloak.com:80
@@ -2714,6 +2749,7 @@
 .nvquan.org:80
 .nvtongzhisheng.org:80
 .nwtca.org:80
+.nyaa.si
 .nydus.ca:80
 .nyt.com
 .nytcn.me
@@ -2866,6 +2902,7 @@
 .pinkrod.com:80
 .pinoy-n.com
 .pinterest.at
+.pinterest.ca
 .pinterest.co.kr
 .pinterest.co.uk
 .pinterest.com
@@ -2890,6 +2927,7 @@
 .playno1.com
 .playpcesor.com
 .plurk.com
+.plus.codes
 .plus28.com:80
 .plusbb.com:80
 .pmatehunter.com:80
@@ -2932,6 +2970,7 @@
 .post76.com
 .post852.com:80
 .postimg.org:80
+.potato.im
 .potvpn.com
 .power.com
 .powerapple.com
@@ -2944,6 +2983,7 @@
 .presidentlee.tw
 .prestige-av.com
 .pride.google
+.prism-break.org
 .prisoneralert.com:80
 .pritunl.com
 .privacybox.de
@@ -3013,6 +3053,7 @@
 .quran.com:80
 .quranexplorer.com:80
 .qvodzy.org:80
+.qz.com
 .r18.com
 .ra.gg:80
 .radicalparty.org:80
@@ -3029,8 +3070,10 @@
 .rapbull.net:80
 .rapidmoviez.com
 .rapidvpn.com
+.rarbgprx.org
 .raremovie.cc:80
 .raremovie.net:80
+.raw.githubusercontent.com
 .rawgit.com
 .rawgithub.com
 .razyboard.com
@@ -3209,6 +3252,7 @@
 .shambalapost.com:80
 .shambhalasun.com:80
 .shangfang.org
+.share.america.gov
 .sharebee.com:80
 .sharecool.org
 .sharpdaily.com.hk
@@ -3303,6 +3347,7 @@
 .softether-download.com
 .softether.co.jp:80
 .softether.org
+.softfamous.com
 .softsmirror.cf
 .softwarebychuck.com
 .sogclub.com
@@ -3388,6 +3433,7 @@
 .stc.com.sa
 .steamcommunity.com
 .steel-storm.com
+.steemit.com
 .steganos.com
 .steganos.net:80
 .stepchina.com:80
@@ -3536,6 +3582,7 @@
 .terminus2049.github.io
 .tew.org:80
 .textnow.me
+.tfhub.dev
 .thaicn.com:80
 .thb.gov.tw
 .theatrum-belli.com
@@ -3710,7 +3757,6 @@
 .tsdr.uspto.gov
 .tsemtulku.com:80
 .tsu.org.tw:80
-.tt-rss.org
 .tt1069.com
 .tttan.com
 .ttvnw.net
@@ -3839,6 +3885,7 @@
 .txxx.com:80
 .tycool.com
 .typepad.com
+.u15.info
 .u9un.com
 .ubddns.org:80
 .uberproxy.net
@@ -3848,7 +3895,6 @@
 .udn.com
 .udn.com.tw
 .uforadio.com.tw
-.ug.m.wikipedia.org
 .ugo.com:80
 .uhdwallpapers.org
 .uhrp.org
@@ -4037,6 +4083,7 @@
 .wanz-factory.com
 .warbler.iconfactory.net
 .waselpro.com
+.washingtonpost.com
 .watch8x.com:80
 .watchinese.com:80
 .watchmygf.net
@@ -4107,6 +4154,7 @@
 .wikileaks.org
 .wikileaks.pl
 .wikimapia.org
+.wikipedia.org
 .wikiwiki.jp
 .williamhill.com:80
 .willw.net
@@ -4114,6 +4162,7 @@
 .windscribe.com
 .wingamestore.com
 .wingy.site
+.winning11.com:80
 .wire.com
 .wiredbytes.com
 .wiredpen.com
@@ -4261,6 +4310,7 @@
 .yibada.com:80
 .yibaochina.com:80
 .yidio.com
+.yigeni.com
 .yingsuoss.com:80
 .yipub.com
 .yizhihongxing.com:80
@@ -4532,6 +4582,7 @@ chinalaborwatch.org:80
 chinalawandpolicy.com:80
 chinalawtranslate.com:80
 chinamz.org:80
+chinanewscenter.com:443
 chinatweeps.com:80
 chinaway.org:80
 chinayouth.org.hk:80
@@ -4709,6 +4760,7 @@ friendfeed.com:80
 friends-of-tibet.org:80
 fucd.com:80
 fuckgfw.org:80
+fulione.com:443
 fulue.com:80
 funp.com:80
 fzh999.com:80
@@ -5091,7 +5143,6 @@ savetibet.nl:80
 savetibet.ru:80
 savevid.com:80
 seapuff.com:80
-search.disconnect.me:443
 secure.hustler.com:80
 securityinabox.org:443
 securityinabox.org:80
@@ -5333,7 +5384,6 @@ wiki.cnitter.com:80
 wiki.gamerp.jp:80
 wiki.moegirl.org:80
 wildammo.com:80
-winning11.com:80
 winwhispers.info:80
 wlcnew.jigsy.com:80
 wn.com:80
@@ -5350,8 +5400,6 @@ wuerkaixi.com:80
 wufi.org.tw:80
 wujie.net:80
 wukangrui.net:80
-wuu.wikipedia.org:443
-wuu.wikipedia.org:80
 www.abclite.net:443
 www.americorps.gov:80
 www.antd.org:80
@@ -5360,7 +5408,6 @@ www.citizenlab.org:80
 www.cmoinc.org:80
 www.dwheeler.com:80
 www.eastturkistan.net:80
-www.ftchinese.com:443
 www.gmiddle.com:80
 www.gmiddle.net:80
 www.hustlercash.com:80
@@ -5413,15 +5460,9 @@ yuanming.net:80
 yx51.net:80
 zacebook.com:80
 zgzcjj.net:80
-zh-yue.wikipedia.org:443
-zh-yue.wikipedia.org:80
 zh.ecdm.wikia.com:80
-zh.m.wikipedia.org:443
-zh.m.wikipedia.org:80
 zh.pokerstrategy.com:80
 zh.uncyclopedia.wikia.com:80
-zh.wikipedia.org:443
-zh.wikipedia.org:80
 zh.wikisource.org:80
 zhao.jinhai.de:80
 zhenghui.org:80
@@ -5432,6 +5473,7 @@ zhongguorenquan.org:80
 zomobo.net:80
 zyzc9.com:80
 {-forward-override}
+.adservice.google.com
 .aftygh.gov.tw
 .aide.gov.tw
 .aliyun.com
@@ -5566,7 +5608,6 @@ lax.v2ex.com:80
 neue.v2ex.com:80
 nrch.culture.tw:80
 pagespeed.v2ex.com:80
-share.dmhy.org:443
 static.v2ex.com:80
 store.sprite.org:80
 translate.google.cn:80
